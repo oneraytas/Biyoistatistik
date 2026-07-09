@@ -7,7 +7,11 @@ Materyaller özellikle **İstanbul Üniversitesi Biyoistatistik ve Tıp Bilişim
 
 
 ## Kullanım Önerisi
-calisma.docx veya calisma.pdf dosyasında alana özgü kısa çalışma belgesi hazırlanmıştır. Önce bu dosya ile çalışmaya hazırlanılır. Yakın zamanda calisma.mp3 ile ses dosyasınıda ekleyeceğim. 
+calisma.docx veya calisma.pdf dosyasında alana özgü kısa çalışma belgesi hazırlanmıştır. Önce bu dosya ile çalışmaya hazırlanılır. 
+Sesli çalışma dosyası eklendi: 
++calisma_sesli_dinle.m4a (AI MODEL: Xttsv2, Konuşmacı1: Öner AYTAŞ, Konuşmacı2: Tanımıyorum) 
++sesli_calisma_omnivoice.mp3 (AI MODEL: OmniVoice, Konuşmacı1: Öner AYTAŞ, Konuşmacı2: Tanımıyorum) 
+
 1. Önce `test1.pdf` ile temel çoktan seçmeli vaka sorularını çözün.
 2. Ardından `test2.pdf` ile grafik, diyagram ve tanı testi yorumlama becerisini pekiştirin.
 3. Son olarak `sinav.pdf` üzerinden klasik sorulara yazılı cevap vererek mülakat/sözlü sınav hazırlığı yapın.
